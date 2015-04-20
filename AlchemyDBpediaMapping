@@ -1,0 +1,38 @@
+DBpedia,DBpedia
+Anatomy
+automobile,automobile
+Anniversary
+City,city
+Company,company
+Continent,continent
+Country,country
+Degree, diploma
+Drug,drug
+EmailAddress
+EntertainmentAward,award
+Facility,place
+FieldTerminology
+FinancialMarketIndex
+GeographicFeature,natural place
+Hashtag
+HealthCondition
+Holiday,holiday
+IPAddress
+JobTitle,person function
+Movie,film
+MusicGroup,band
+NaturalDisaster,natural event
+OperatingSystem
+Organization,organisation
+Person,person
+PrintMedia,periodical literature
+Quantity
+RadioProgram,radio program
+RadioStation,radio station
+Region,region
+Sport,sport
+StateOrCounty,populated place
+Technology
+TelevisionShow,television show
+TelevisionStation,television station
+TwitterHandle
